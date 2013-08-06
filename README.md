@@ -6,7 +6,7 @@ Cascading Style Sheets (CSS) make it easy to apply a set of styles across all of
 
 Google provides a wide range of webfonts, two of which provide a full spectrum of styles. Playfair and Alegreya, along with their Small Capitals variants, provide a total of 12 styles apiece in the Latin extended set.
 
-Using one of these two webfonts provides ample resources for designers to apply the principles outlined by Bringhurst.<sup>* Note</sup> The included examples include the complete set of webfonts; however, a designer should bridle their implementation to accommodate actual use.
+Using one of these two webfonts provides ample resources for designers to apply the principles outlined by Bringhurst.<sup>* See footnote</sup> The included examples include the complete set of webfonts; however, a designer should bridle their implementation to accommodate actual use.
 
 See what they look like:
 
