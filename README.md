@@ -10,7 +10,7 @@ Using one of these two webfonts provides ample resources for designers to apply 
 
 For displaying code or other cases where preformatted text is required I recommend Adobe Source Code Pro, which provides seven styles in the Latin extended set. It is included in both examples below. Though unused here, Adobe Source Sans Pro is another excellent typeface to serve your sans serif needs.
 
-## Playfair & Playfair SC
+### Playfair & Playfair SC
 
 [**Claus Eggers Sørensen**][0]   
 [**SIL Open Font License, 1.1**][1]   
@@ -34,15 +34,15 @@ To contribute to the project contact Claus Eggers Sørensen [here][3].
 [2]: http://www.google.com/webfonts/specimen/Playfair+Display+SC
 [3]: mailto:es@forthehearts.net
 
-### Playfair (Standard)
+#### Playfair (Standard)
 
 `<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Source+Code+Pro:200,300,400,500,600,700,900|Playfair+Display+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>`
 
-### Playfair @import
+#### Playfair @import
 
 `@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Source+Code+Pro:200,300,400,500,600,700,900|Playfair+Display+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext);`
 
-### Playfair (Javascript)
+#### Playfair (Javascript)
 
 `<script type="text/javascript">
     WebFontConfig = {
@@ -58,13 +58,13 @@ To contribute to the project contact Claus Eggers Sørensen [here][3].
       s.parentNode.insertBefore(wf, s);
     })(); </script>`
 
-### Playfair CSS
+#### Playfair CSS
 
 `font-family: 'Playfair Display', serif;`   
 `font-family: 'Source Code Pro', sans-serif;`   
 `font-family: 'Playfair Display SC', serif;`
 
-## Alegreya & Alegreya SC
+### Alegreya & Alegreya SC
 
 [**Huerta Tipográfica**][4]   
 [**SIL Open Font License, 1.1**][5]   
@@ -81,14 +81,14 @@ Designed by Juan Pablo del Peral for [Huerta Tipográfica][7].
 
 <cite>---[Google Webfonts -- Alegreya][9]</cite>
 
-### Alegreya (Standard)
+#### Alegreya (Standard)
 
 `<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900|Alegreya:400italic,700italic,900italic,400,700,900|Alegreya+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>`
 
-### Alegreya (@import)
+#### Alegreya (@import)
 `@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900|Alegreya:400italic,700italic,900italic,400,700,900|Alegreya+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext);`
 
-### Alegreya (Javascript)
+#### Alegreya (Javascript)
 
 `<script type="text/javascript">
   WebFontConfig = {
@@ -104,7 +104,7 @@ Designed by Juan Pablo del Peral for [Huerta Tipográfica][7].
     s.parentNode.insertBefore(wf, s);
   })(); </script>`
 
-## Adobe Source Code Pro
+### Adobe Source Code Pro
 
 [**Paul D. Hunt**][10]   
 [**SIL Open Font License, 1.1**][11]   
