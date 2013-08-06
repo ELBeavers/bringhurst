@@ -1,6 +1,6 @@
 # Bringhurst CSS Styles
 
-Cascading Style Sheets (CSS) make it easy to apply a set of styles across all of the pages that comprise a websites. In the 4th edition of Robert Bringhurst's *The Elements of Typographic Style,*[^fn1] the author applies simple design principles to headings on a page. This is my application of those styles to <abbr>HTML<abbr>.
+Cascading Style Sheets (CSS) make it easy to apply a set of styles across all of the pages that comprise a websites. In the 4th edition of Robert Bringhurst's *The Elements of Typographic Style,*<sup>*</sup> the author applies simple design principles to headings on a page. This is my application of those styles to <abbr>HTML<abbr>.
 
 ## Google Webfonts and Bringhurst Style
 
@@ -130,4 +130,4 @@ If you are interested in contributing to this open source project, please visit 
 [12]: http://sourceforge.net/adobe
 [13]: https://www.google.com/fonts/specimen/Source+Code+Pro
 
-[^fn1]: Bringhurst, R. (2012). Elements of Typographic Style (4th ed.). Vancouver: Hartley & Marks. pp 66--67.
+* --- Bringhurst, R. (2012). Elements of Typographic Style (4th ed.). Vancouver: Hartley & Marks. pp 66--67.
