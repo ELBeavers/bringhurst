@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900|Alegreya:400italic,700italic,900italic,400,700,900|Alegreya+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext);
+
+/*=================\
+| Main Section Title |
+\================ */
+h1 {padding-left:3em;font-weight:400;font-size:1.3em;font-family:Alegreya,Georgia,serif;}
+
+/*=============\
+| Main Crosshead |
+\============ */
+h2 {text-align:center;text-transform:uppercase;letter-spacing:0.25em;font-weight:400;font-size:1.3em;font-family:Alegreya,Georgia,serif;}
+
+/*===================\
+| Ornamented Crosshead |
+\================== */
+h3 {text-align:center;text-transform:lowercase;letter-spacing:0.15em;font-weight:400;font-variant:small-caps;font-size:1.3em;font-family:Alegreya,Georgia,serif;}
+h3::before {display:inline;padding-right:0.4em;content:" \2742 ";font-size:0.7em;}
+h3::after {display:inline;content:" \2742 ";font-size:0.7em;}
+
+/*================\
+| Indented Sidehead |
+\=============== */
+h4 {padding-left:1.5em;text-transform:lowercase;letter-spacing:0.2em;font-weight:400;font-variant:small-caps;font-size:1.3em;font-family:Alegreya,Georgia,serif;}
+
+/*==========================\
+| Secondary Indented Sidehead |
+\========================= */
+h5 {padding-left:1.5em;font-weight:400;font-weight:400;font-style:italic;font-size:1em;font-family:Alegreya,Georgia,serif;}
+
+/*=================================================================\
+| Run-in Sidehead                                                    |
+|                                                                    |
+|	usage                                                            |
+|	<div class="run-in-sidehead">Run-in Sidehead</div><p>Copy...</p> |
+\=================================================================*/
+.run-in-sidehead {float:left;padding-right:1em;text-transform:lowercase;letter-spacing:0.15em;font-weight:400;font-variant:small-caps;font-size:1.35em;font-family:Alegreya,Georgia,serif;line-height:0.64em;}
+
+p {font-size:1em;font-family:Alegreya,Georgia,serif;line-height:1.2em;}
+blockquote {padding-right:2em;padding-left:2em;font-size:0.9em;font-family:Alegreya,Georgia,serif;}
+ul li {font-size:0.9em;font-family:Alegreya,Georgia,serif;}
+ol li {font-size:0.9em;font-family:Alegreya,Georgia,serif;}
+
+.container {margin:3em auto;max-width:600px;}

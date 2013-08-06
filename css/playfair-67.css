@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Source+Code+Pro:200,300,400,500,600,700,900|Playfair+Display+SC:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext);
+
+ /*=================\
+| Main Section Title |
+ \================ */
+h1 {font-family:"Playfair Display",Georgia,serif;font-weight:400;font-size:1.3em;padding-left:3em;}
+
+ /*=============\
+| Main Crosshead |
+ \============ */
+h2 {font-family:"Playfair Display",Georgia,serif;font-weight:400;text-transform:uppercase;font-size:1.3em;text-align:center;letter-spacing:0.25em;}
+
+ /*===================\
+| Ornamented Crosshead |
+ \================== */
+h3 {font-family:"Playfair Display",Georgia,serif;text-transform:lowercase;font-variant:small-caps;font-size:1.3em;text-align:center;font-weight:400;letter-spacing:0.15em;}
+h3::before {display:inline;padding-right:0.5em;content:" \2742 ";font-size:0.8em;}
+h3::after {display:inline;content:" \2742 ";font-size:0.8em;}
+
+ /*================\
+| Indented Sidehead |
+ \=============== */
+h4 {font-family:"Playfair Display",Georgia,serif;font-weight:400;font-size:1.3em;text-transform:lowercase;font-variant:small-caps;padding-left:1.5em;}
+
+ /*==========================\
+| Secondary Indented Sidehead |
+ \========================= */
+h5 {font-family:"Playfair Display",Georgia,serif;font-weight:400;font-size:1em;font-weight:400;font-style:italic;padding-left:1.5em;}
+
+ /*=================================================================\
+| Run-in Sidehead                                                    |
+|                                                                    |
+|	usage                                                            |
+|	<div class="run-in-sidehead">Run-in Sidehead</div><p>Copy...</p> |
+ \=================================================================*/
+.run-in-sidehead {font-family:"Playfair Display",Georgia,serif;font-weight:400;font-size:1.3em;text-transform:lowercase;font-variant:small-caps;letter-spacing:0.15em;float:left;padding-right:1em;line-height:0.7em;}
+
+p {font-family:"Playfair Display",Georgia,serif;font-size:1em;line-height:1.2em;}
+blockquote {font-family:"Playfair Display",Georgia,serif;font-size:0.9em;padding-left:2em;padding-right:2em;}
+ul li {font-family:"Playfair Display",Georgia,serif;font-size:0.9em;}
+ol li {font-family:"Playfair Display",Georgia,serif;font-size:0.9em;}
+
+.container {max-width:600px;margin:3em auto;}
