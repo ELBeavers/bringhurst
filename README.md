@@ -130,4 +130,4 @@ If you are interested in contributing to this open source project, please visit 
 [12]: http://sourceforge.net/adobe
 [13]: https://www.google.com/fonts/specimen/Source+Code+Pro
 
-* --- Bringhurst, R. (2012). Elements of Typographic Style (4th ed.). Vancouver: Hartley & Marks. pp 66--67.
+\* --- Bringhurst, R. (2012). Elements of Typographic Style (4th ed.). Vancouver: Hartley & Marks. pp 66--67.
