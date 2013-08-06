@@ -10,10 +10,10 @@ Using one of these two webfonts provides ample resources for designers to apply 
 
 See what they look like:
 
-- [Playfair 66][]
-- [Playfair 67][]
-- [Alegreya 66][]
-- [Alegreya 67][]
+- [Playfair 66][14]
+- [Playfair 67][15]
+- [Alegreya 66][16]
+- [Alegreya 67][17]
 
 For displaying code or other cases where preformatted text is required I recommend Adobe Source Code Pro, which provides seven styles in the Latin extended set. It is included in both examples below. Though unused here, Adobe Source Sans Pro is another excellent typeface to serve your sans serif needs.
 
