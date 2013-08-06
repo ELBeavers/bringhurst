@@ -6,7 +6,14 @@ Cascading Style Sheets (CSS) make it easy to apply a set of styles across all of
 
 Google provides a wide range of webfonts, two of which provide a full spectrum of styles. Playfair and Alegreya, along with their Small Capitals variants, provide a total of 12 styles apiece in the Latin extended set.
 
-Using one of these two webfonts provides ample resources for designers to apply the principles outlined by Bringhurst.*[^fn1] The included examples include the complete set of webfonts; however, a designer should bridle their implementation to accommodate actual use.
+Using one of these two webfonts provides ample resources for designers to apply the principles outlined by Bringhurst.<sup>*</sup> The included examples include the complete set of webfonts; however, a designer should bridle their implementation to accommodate actual use.
+
+See what they look like:
+
+- [Playfair 66][]
+- [Playfair 67][]
+- [Alegreya 66][]
+- [Alegreya 67][]
 
 For displaying code or other cases where preformatted text is required I recommend Adobe Source Code Pro, which provides seven styles in the Latin extended set. It is included in both examples below. Though unused here, Adobe Source Sans Pro is another excellent typeface to serve your sans serif needs.
 
@@ -129,5 +136,9 @@ If you are interested in contributing to this open source project, please visit 
 [11]: http://scripts.sil.org/OFL
 [12]: http://sourceforge.net/adobe
 [13]: https://www.google.com/fonts/specimen/Source+Code+Pro
+[14]: http://carryingstones.com/bringhurst/playfair-66.html
+[15]: http://carryingstones.com/bringhurst/playfair-67.html
+[16]: http://carryingstones.com/bringhurst/alegreya-66.html
+[17]: http://carryingstones.com/bringhurst/playfair-67.html
 
 \* --- Bringhurst, R. (2012). Elements of Typographic Style (4th ed.). Vancouver: Hartley & Marks. pp 66--67.
