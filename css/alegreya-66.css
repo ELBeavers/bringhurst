@@ -32,7 +32,7 @@ h5 {text-align:center;font-weight:400;font-weight:400;font-style:italic;font-siz
 |	<div class="run-in-sidehead">Run-in Sidehead</div><p>Copy...</p> |
  \=================================================================*/
 .run-in-sidehead {float:left;padding-right:1em;text-transform:lowercase;letter-spacing:0.15em;font-weight:400;font-variant:small-caps;font-size:1.35em;font-family:Alegreya,Georgia,serif;line-height:0.64em;}
-.drop-cap {display:block;float:left;padding-right:0.05em;color:#dfdfdf;text-align:top;font-size:3.1em;font-family:Alegreya,Georgia,serif;line-height:0.8em;}
+.drop-cap {display:block;float:left;/* padding-right:0.05em; */color:#dfdfdf;text-align:top;font-size:3.1em;font-family:Alegreya,Georgia,serif;line-height:0.8em;}
 
 p {font-size:1em;font-family:Alegreya,Georgia,serif;line-height:1.2em;}
 blockquote {padding-right:2em;padding-left:2em;font-size:0.9em;font-family:Alegreya,Georgia,serif;}
