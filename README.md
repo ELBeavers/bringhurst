@@ -1,6 +1,6 @@
 # Bringhurst CSS Styles
 
-/* Testing Push Mirror */
+/* Testing Push Mirror 2025-09-17 */
 
 Cascading Style Sheets (CSS) make it easy to apply a set of styles across all of the pages that comprise a websites. In the 4th edition of Robert Bringhurst's *The Elements of Typographic Style,*<sup>*</sup> the author applies simple design principles to headings on a page. This is my application of those styles to <abbr>HTML<abbr>.
 
